@@ -1,0 +1,79 @@
+/* Nội dung chính */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background: #222;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 15px;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover {
+    background: #555;
+    border-radius: 5px;
+}
+
+main {
+    padding: 20px;
+    background: #fff;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+main h2, main h3 {
+    color: #0078d4;
+    margin-bottom: 10px;
+}
+
+main p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+main ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+main ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    background: #222;
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+

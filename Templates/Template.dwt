@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<link rel="stylesheet" href="product.css">
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<header>
+        <h1>Đồ Tập Gym - Sức khỏe và Phong cách</h1>
+        <nav>
+            <ul>
+                <li><a href="gym_chinh_chu.html">Trang Chủ</a></li>
+                <li><a href="gia_mua.html">Sản Phẩm</a></li>
+                <li><a href="xem_do_san_pham.html">Bộ Sưu Tập</a></li>
+                <li><a href="bang_gioi_thieu_gym.html">Giới Thiệu</a></li>
+                <li><a href="so_lien_he.html">Liên Hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+	<!-- TemplateBeginEditable name="chinhsua" -->
+    <main>
+      <section class="hero">
+        <h2>Chào mừng đến với cửa hàng đồ tập gym của chúng tôi!</h2>
+        <p>Khám phá những bộ đồ tập gym chất lượng cao, thiết kế hiện đại phù hợp cho mọi người yêu thích thể thao.</p>
+        <a href="gia_mua.html" class="btn">Xem Sản Phẩm</a> </section>
+    </main>
+	<!-- TemplateEndEditable -->
+	<footer>
+      <p>&copy; 2024 Đồ Tập Gym. All rights reserved.</p>
+</footer>
+	
+</body>
+</html>
